@@ -1,4 +1,4 @@
-# You can download that file from:                                                                                             
+# You can download that file from                                                                                             
 # https://github.com/docker-training/staticweb
 FROM ubuntu:14.04
 MAINTAINER Docker Education Team <education@docker.com>
